@@ -36,3 +36,10 @@
 .clear-both{
     clear: both;
 }
+.nav-img{
+    height:55px;
+    padding: 10px;
+}
+.main-nav{
+    height: 75px;
+}
