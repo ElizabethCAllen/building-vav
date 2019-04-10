@@ -1,0 +1,38 @@
+.box{
+    height: 100px;
+    width: 200px;
+
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color:red;
+}
+.blue{
+    background-color:blue;
+}
+.purple{
+    background-color: purple;
+}
+.orange{
+    background-color: orange;
+}
+.yellow{
+    background-color:yellow;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.clear-left{
+    clear: left;
+}
+.clear-right{
+    clear: right;
+}
+.clear-both{
+    clear: both;
+}
