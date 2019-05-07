@@ -15,6 +15,7 @@ function secondFunction(){
     
 }
 
+// nested scope
 function outerFunction(){
     const outer= 'I\'m defined in outerFunction';
     console.log(outer);
